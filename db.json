@@ -1,24 +1,24 @@
 {
   "columns": [
     {
-      "id": "col1",
-      "title": "To Do",
-      "order": 0
-    },
-    {
       "id": "col2",
       "title": "In Progress",
       "order": 1
     },
     {
-      "id": "col3",
-      "title": "Done",
+      "id": "a3753891-fc07-4c79-960e-9ef86fb6fe22",
+      "title": "Review",
       "order": 3
     },
     {
-      "id": "a3753891-fc07-4c79-960e-9ef86fb6fe22",
-      "title": "Review",
-      "order": 2
+      "id": "50db27bc-0e50-4961-bfa9-49473cbf6417",
+      "title": "Test ",
+      "order": 3
+    },
+    {
+      "id": "6283d3b3-71d8-42ed-ba58-26a12ef24e2f",
+      "title": "asdsad",
+      "order": 4
     }
   ],
   "cards": [
@@ -26,98 +26,84 @@
       "id": "card-1",
       "title": "Implement Login Feature",
       "description": "Add user authentication with JWT tokens and social login options",
-      "columnId": "col1",
-      "order": 1
+      "columnId": null,
+      "order": 6
     },
     {
       "id": "card-2",
       "title": "Fix Navigation Bug",
       "description": "Menu items not highlighting correctly in mobile view",
-      "columnId": "col1",
+      "columnId": "a3753891-fc07-4c79-960e-9ef86fb6fe22",
       "order": 2
     },
     {
       "id": "card-3",
       "title": "Update Dependencies",
       "description": "Update all npm packages to latest versions and fix security issues",
-      "columnId": "col1",
-      "order": 3
+      "columnId": "col2",
+      "order": 6
     },
     {
       "id": "card-4",
       "title": "Write API Documentation",
       "description": "Create comprehensive API documentation with examples",
-      "columnId": "col1",
-      "order": 4
+      "columnId": null,
+      "order": 5
     },
     {
       "id": "card-5",
       "title": "Implement Dark Mode",
       "description": "Add system-wide dark theme support with user preference",
-      "columnId": "col1",
-      "order": 5
+      "columnId": null,
+      "order": 6
     },
     {
       "id": "card-6",
       "title": "Optimize Performance",
       "description": "Improve page load times and reduce bundle size",
-      "columnId": "col1",
-      "order": 6
+      "columnId": null,
+      "order": 7
     },
     {
       "id": "card-7",
       "title": "Add Search Feature",
       "description": "Implement global search with filters and sorting",
-      "columnId": "a3753891-fc07-4c79-960e-9ef86fb6fe22",
+      "columnId": "50db27bc-0e50-4961-bfa9-49473cbf6417",
       "order": 0
     },
     {
       "id": "card-8",
       "title": "Setup CI/CD Pipeline1",
       "description": "Configure automated testing and deployment workflow",
-      "columnId": "col2",
-      "order": 3
-    },
-    {
-      "id": "card-9",
-      "title": "Refactor CSS",
-      "description": "Convert existing styles to Tailwind and improve responsiveness",
-      "columnId": "col2",
-      "order": 2
+      "columnId": "a3753891-fc07-4c79-960e-9ef86fb6fe22",
+      "order": 4
     },
     {
       "id": "card-10",
       "title": "Add Error Handling",
       "description": "Implement global error boundary and error reporting",
       "columnId": "col2",
-      "order": 4
-    },
-    {
-      "id": "card-11",
-      "title": "User Settings Page",
-      "description": "Create user profile and settings management interface",
-      "columnId": "col2",
-      "order": 5
+      "order": 7
     },
     {
       "id": "card-12",
       "title": "Email Integration",
       "description": "Setup email notifications for important events",
       "columnId": "col2",
-      "order": 6
+      "order": 8
     },
     {
       "id": "card-13",
       "title": "Database Optimization",
       "description": "Add indexes and optimize common queries",
       "columnId": "a3753891-fc07-4c79-960e-9ef86fb6fe22",
-      "order": 4
+      "order": 8
     },
     {
       "id": "card-14",
       "title": "Analytics Dashboard",
       "description": "Create analytics dashboard with key metrics",
-      "columnId": "col3",
+      "columnId": null,
       "order": 1
     },
     {
@@ -125,49 +111,56 @@
       "title": "Mobile Responsiveness",
       "description": "Ensure all pages work well on mobile devices",
       "columnId": "a3753891-fc07-4c79-960e-9ef86fb6fe22",
-      "order": 2
+      "order": 6
     },
     {
       "id": "card-16",
       "title": "Security Audit",
       "description": "Perform security audit and fix vulnerabilities",
       "columnId": "a3753891-fc07-4c79-960e-9ef86fb6fe22",
-      "order": 1
+      "order": 5
     },
     {
       "id": "card-17",
       "title": "Backup System",
       "description": "Implement automated backup and recovery system",
       "columnId": "a3753891-fc07-4c79-960e-9ef86fb6fe22",
-      "order": 3
+      "order": 7
     },
     {
       "id": "card-18",
       "title": "User Onboarding",
       "description": "Create interactive user onboarding flow",
-      "columnId": "col3",
+      "columnId": null,
       "order": 5
     },
     {
       "id": "card-19",
       "title": "Payment Integration",
       "description": "Add support for multiple payment providers",
-      "columnId": "col3",
-      "order": 7
+      "columnId": null,
+      "order": 8
     },
     {
       "id": "card-20",
       "title": "Performance Monitoring",
       "description": "Setup monitoring and alerting for key metrics",
-      "columnId": "col3",
-      "order": 6
+      "columnId": null,
+      "order": 7
     },
     {
       "id": "a29fb997-42a2-44ac-9849-295cd64382fd",
-      "columnId": "",
+      "columnId": "col2",
       "title": "New card",
       "description": "as;dlfjasdf\n",
       "order": 0
+    },
+    {
+      "id": "59b40e4d-3e0e-4c9c-84a8-1a03249d5d80",
+      "columnId": "a3753891-fc07-4c79-960e-9ef86fb6fe22",
+      "title": "asdad",
+      "description": "asdasd",
+      "order": 3
     }
   ]
 }
