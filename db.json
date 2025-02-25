@@ -27,42 +27,42 @@
       "title": "Implement Login Feature",
       "description": "Add user authentication with JWT tokens and social login options",
       "columnId": "col1",
-      "order": 0
+      "order": 1
     },
     {
       "id": "card-2",
       "title": "Fix Navigation Bug",
       "description": "Menu items not highlighting correctly in mobile view",
       "columnId": "col1",
-      "order": 1
+      "order": 2
     },
     {
       "id": "card-3",
       "title": "Update Dependencies",
       "description": "Update all npm packages to latest versions and fix security issues",
       "columnId": "col1",
-      "order": 2
+      "order": 3
     },
     {
       "id": "card-4",
       "title": "Write API Documentation",
       "description": "Create comprehensive API documentation with examples",
       "columnId": "col1",
-      "order": 3
+      "order": 4
     },
     {
       "id": "card-5",
       "title": "Implement Dark Mode",
       "description": "Add system-wide dark theme support with user preference",
       "columnId": "col1",
-      "order": 4
+      "order": 5
     },
     {
       "id": "card-6",
       "title": "Optimize Performance",
       "description": "Improve page load times and reduce bundle size",
       "columnId": "col1",
-      "order": 5
+      "order": 6
     },
     {
       "id": "card-7",
@@ -76,7 +76,7 @@
       "title": "Setup CI/CD Pipeline1",
       "description": "Configure automated testing and deployment workflow",
       "columnId": "col2",
-      "order": 1
+      "order": 3
     },
     {
       "id": "card-9",
@@ -90,21 +90,21 @@
       "title": "Add Error Handling",
       "description": "Implement global error boundary and error reporting",
       "columnId": "col2",
-      "order": 3
+      "order": 4
     },
     {
       "id": "card-11",
       "title": "User Settings Page",
       "description": "Create user profile and settings management interface",
       "columnId": "col2",
-      "order": 4
+      "order": 5
     },
     {
       "id": "card-12",
       "title": "Email Integration",
       "description": "Setup email notifications for important events",
       "columnId": "col2",
-      "order": 5
+      "order": 6
     },
     {
       "id": "card-13",
